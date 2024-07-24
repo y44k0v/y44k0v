@@ -7,6 +7,7 @@ I'm a dedicated full-stack developer with a fervent passion for data, automation
 
 - ⚡ Fun fact: Worried about AI taking over IT jobs? Don't be! Just try asking an AI to fix a Crowdstrike-affected terminal with BoD, boot it into safe mode, delete a file(s), and restart—without any human intervention. Spoiler alert: The robots might need a coffee break first!
 
+---
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Go(Golang)" width="50px" style="padding-right:10px;" src="/img/icons/go-original-wordmark.svg" />
@@ -26,17 +27,18 @@ I'm a dedicated full-stack developer with a fervent passion for data, automation
 <img align="left" alt="MySQL" width="50px" style="padding-right:10px;" src="/img/icons/mysql-original-wordmark.svg" />
 <img align="left" alt="MSSQL" width="50px" style="padding-right:10px;" src="/img/icons/microsoftsqlserver-original-wordmark.svg" />
 <br />
-
-#
-![Static Badge](https://img.shields.io/badge/STATUS-work_in_progress_...-yellow?style=plastic)
+<br />
 
 #
 
 ### 📊 Stats
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y44k0v&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=y44k0v)](https://github.com/anuraghazra/github-readme-stats)
+
+![Static Badge](https://img.shields.io/badge/STATUS-work_in_progress_...-yellow?style=plastic)
 
 
 #

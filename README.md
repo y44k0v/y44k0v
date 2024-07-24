@@ -7,6 +7,7 @@ I'm a dedicated full-stack developer with a fervent passion for data, automation
 - ⚡ Fun fact: Worried about AI taking over IT jobs? Don't be! Just try asking an AI to fix a Crowdstrike-affected terminal with BoD, boot it into safe mode, delete a file(s), and restart—without any human intervention. Spoiler alert: The robots might need a coffee break first!
 
 ### 🧰 Languages and Tools
+
 <img align="left" alt="Go(Golang)" width="50px" style="padding-right:10px;" src="/img/icons/go-original-wordmark.svg" />
 <img align="left" alt="Python" width="50px" style="padding-right:10px;" src="/img/icons/python-original-wordmark.svg" />
 <img align="left" alt="C" width="50px" style="padding-right:10px;" src="/img/icons/c-original.svg" />
@@ -24,7 +25,7 @@ I'm a dedicated full-stack developer with a fervent passion for data, automation
 <img align="left" alt="MySQL" width="50px" style="padding-right:10px;" src="/img/icons/mysql-original-wordmark.svg" />
 <img align="left" alt="MSSQL" width="50px" style="padding-right:10px;" src="/img/icons/microsoftsqlserver-original-wordmark.svg" />
 
-
+<br/>
 
 ### Badges
 

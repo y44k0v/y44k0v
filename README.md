@@ -16,6 +16,7 @@ I'm a dedicated full-stack developer with a fervent passion for data, automation
 <img align="left" alt="C++" width="50px" style="padding-right:10px;" src="/img/icons/cplusplus-original.svg" />
 <img align="left" alt="R" width="50px" style="padding-right:10px;" src="/img/icons/r-original.svg" />
 <img align="left" alt="Java" width="50px" style="padding-right:10px;" src="/img/icons/java-original-wordmark.svg" />
+<img align="left" alt="JupyterNB" width="50px" style="padding-right:10px;" src="/img/icons/jupyter-original-wordmark.svg" />
 <img align="left" alt="Bash" width="50px" style="padding-right:10px;" src="/img/icons/bash-original.svg" />
 <img align="left" alt="Javascript" width="50px" style="padding-right:10px;" src="/img/icons/javascript-original.svg" />
 <img align="left" alt="CSS" width="50px" style="padding-right:10px;" src="/img/icons/css3-original.svg" />
@@ -26,12 +27,15 @@ I'm a dedicated full-stack developer with a fervent passion for data, automation
 <img align="left" alt="NodeJS" width="50px" style="padding-right:10px;" src="/img/icons/nodejs-original-wordmark.svg" />
 <img align="left" alt="MySQL" width="50px" style="padding-right:10px;" src="/img/icons/mysql-original-wordmark.svg" />
 <img align="left" alt="MSSQL" width="50px" style="padding-right:10px;" src="/img/icons/microsoftsqlserver-original-wordmark.svg" />
-<br />
-<br />
+<img align="left" alt="Spark" width="50px" style="padding-right:10px;" src="/img/icons/apachespark-original-wordmark.svg" />
+<br>
+<br>
+<br>
+<br>
 
 #
+### 📊 Stats 
 
-### 📊 Stats
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y44k0v&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)

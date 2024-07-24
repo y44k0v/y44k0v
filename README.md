@@ -24,16 +24,13 @@ I'm a dedicated full-stack developer with a fervent passion for data, automation
 <img align="left" alt="NodeJS" width="50px" style="padding-right:10px;" src="/img/icons/nodejs-original-wordmark.svg" />
 <img align="left" alt="MySQL" width="50px" style="padding-right:10px;" src="/img/icons/mysql-original-wordmark.svg" />
 <img align="left" alt="MSSQL" width="50px" style="padding-right:10px;" src="/img/icons/microsoftsqlserver-original-wordmark.svg" />
-<br/>
+<br />
 
 
 #
-#
-
 
 ### 🛡️ Badges
 
-#
 
 [Credily Badges](https://www.credly.com/users/yaakov-miller)
 
@@ -47,7 +44,7 @@ I'm a dedicated full-stack developer with a fervent passion for data, automation
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=y44k0v)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+#
 <!--
 **y44k0v/y44k0v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -6,6 +6,25 @@ I'm a dedicated full-stack developer with a fervent passion for data, automation
 
 - ⚡ Fun fact: Worried about AI taking over IT jobs? Don't be! Just try asking an AI to fix a Crowdstrike-affected terminal with BoD, boot it into safe mode, delete a file(s), and restart—without any human intervention. Spoiler alert: The robots might need a coffee break first!
 
+### 🧰 Languages and Tools
+<img align="left" width="50px" style="padding-right:10px;" src="/img/icons/go-original-wordmark.svg" />
+<img align="left" width="50px" style="padding-right:10px;" src="/img/icons/python-original-wordmark.svg" />
+<img align="left" width="50px" style="padding-right:10px;" src="/img/icons/c-original.svg" />
+<img align="left" width="50px" style="padding-right:10px;" src="/img/icons/cplusplus-original.svg" />
+<img align="left" width="50px" style="padding-right:10px;" src="/img/icons/r-original.svg" />
+<img align="left" width="50px" style="padding-right:10px;" src="/img/icons/java-original-wordmark.svg" />
+<img align="left" width="50px" style="padding-right:10px;" src="/img/icons/bash-original.svg" />
+<img align="left" width="50px" style="padding-right:10px;" src="/img/icons/javascript-original.svg" />
+<img align="left" width="50px" style="padding-right:10px;" src="/img/icons/css3-original.svg" />
+<img align="left" width="50px" style="padding-right:10px;" src="/img/icons/html5-original.svg" />
+<img align="left" width="50px" style="padding-right:10px;" src="/img/icons/react-original-wordmark.svg" />
+<img align="left" width="50px" style="padding-right:10px;" src="/img/icons/kubernetes-original-wordmark.svg" />
+<img align="left" width="50px" style="padding-right:10px;" src="/img/icons/googlecloud-original-wordmark.svg" />
+
+#
+
+
+
 <!--
 **y44k0v/y44k0v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

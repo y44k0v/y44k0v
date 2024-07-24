@@ -38,9 +38,9 @@ I'm a dedicated full-stack developer with a fervent passion for data, automation
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y44k0v&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y44k0v&size_weight=0.5&count_weight=0.5&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=y44k0v)](https://github.com/anuraghazra/github-readme-stats)
+[![Yaakov's GitHub stats](https://github-readme-stats.vercel.app/api?username=y44k0v&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Static Badge](https://img.shields.io/badge/STATUS-work_in_progress_...-yellow?style=plastic)
 

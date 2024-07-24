@@ -1,4 +1,10 @@
-## Hi there 👋
+# Yaakov Miller 👋
+
+**`Software Formulator`**
+
+I'm a dedicated full-stack developer with a fervent passion for data, automation, and emerging technologies. My journey in tech has taken me from crafting sleek, responsive static websites to orchestrating robust cloud deployments. Along the way, I've built versatile standalone applications that run seamlessly across multiple operating systems and engineered efficient gRPC server/client architectures. My work is driven by a commitment to innovation and a keen interest in the latest technological advancements, always seeking new challenges and opportunities to learn and grow.
+
+- ⚡ Fun fact: Worried about AI taking over IT jobs? Don't be! Just try asking an AI to fix a Crowdstrike-affected terminal with BoD, boot it into safe mode, delete a file9s), and restart—without any human intervention. Spoiler alert: The robots might need a coffee break first!
 
 <!--
 **y44k0v/y44k0v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

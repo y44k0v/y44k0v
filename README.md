@@ -24,14 +24,27 @@ I'm a dedicated full-stack developer with a fervent passion for data, automation
 <img align="left" alt="NodeJS" width="50px" style="padding-right:10px;" src="/img/icons/nodejs-original-wordmark.svg" />
 <img align="left" alt="MySQL" width="50px" style="padding-right:10px;" src="/img/icons/mysql-original-wordmark.svg" />
 <img align="left" alt="MSSQL" width="50px" style="padding-right:10px;" src="/img/icons/microsoftsqlserver-original-wordmark.svg" />
-
 <br/>
 
-### Badges
+
+#
+#
+
+
+### 🛡️ Badges
+
+#
 
 [Credily Badges](https://www.credly.com/users/yaakov-miller)
 
 ![Static Badge](https://img.shields.io/badge/STATUS-work_in_progress_...-yellow?style=plastic)
+#
+
+### 📊 Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y44k0v&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=y44k0v)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

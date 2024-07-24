@@ -28,10 +28,8 @@ I'm a dedicated full-stack developer with a fervent passion for data, automation
 <br />
 
 #
-
-
-
 ![Static Badge](https://img.shields.io/badge/STATUS-work_in_progress_...-yellow?style=plastic)
+
 #
 
 ### 📊 Stats

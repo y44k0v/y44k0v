@@ -20,6 +20,10 @@ I'm a dedicated full-stack developer with a fervent passion for data, automation
 <img align="left" alt="React" width="50px" style="padding-right:10px;" src="/img/icons/react-original-wordmark.svg" />
 <img align="left" alt="Kubernetes" width="50px" style="padding-right:10px;" src="/img/icons/kubernetes-original-wordmark.svg" />
 <img align="left" alt="GCP" width="70px" style="padding-right:10px;" src="/img/icons/googlecloud-original-wordmark.svg" />
+<img align="left" alt="NodeJS" width="50px" style="padding-right:10px;" src="/img/icons/nodejs-original-wordmark.svg" />
+<img align="left" alt="MySQL" width="50px" style="padding-right:10px;" src="/img/icons/mysql-original-wordmark.svg" />
+<img align="left" alt="MSSQL" width="50px" style="padding-right:10px;" src="/img/icons/microsoftsqlserver-original-wordmark.svg" />
+
 
 #
 

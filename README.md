@@ -20,12 +20,21 @@ I'm a dedicated full-stack developer with a fervent passion for data, automation
 <img align="left" alt="CSS" width="50px" style="padding-right:10px;" src="/img/icons/css3-original.svg" />
 <img align="left" alt="HTML" width="50px" style="padding-right:10px;" src="/img/icons/html5-original.svg" />
 <img align="left" alt="React" width="50px" style="padding-right:10px;" src="/img/icons/react-original-wordmark.svg" />
+<img align="left" alt="Docker" width="50px" style="padding-right:10px;" src="/img/icons/docker-original-wordmark.svg" />
 <img align="left" alt="Kubernetes" width="50px" style="padding-right:10px;" src="/img/icons/kubernetes-original-wordmark.svg" />
+<img align="left" alt="Openshift" width="50px" style="padding-right:10px;" src="/img/icons/openshift.svg" />
 <img align="left" alt="GCP" width="70px" style="padding-right:10px;" src="/img/icons/googlecloud-original-wordmark.svg" />
+<img align="left" alt="AWS" width="50px" style="padding-right:10px;" src="/img/icons/aws.svg" />
 <img align="left" alt="NodeJS" width="50px" style="padding-right:10px;" src="/img/icons/nodejs-original-wordmark.svg" />
+<img align="left" alt="Postgresql" width="50px" style="padding-right:10px;" src="/img/icons/postgresql-original-wordmark.svg" />
 <img align="left" alt="MySQL" width="50px" style="padding-right:10px;" src="/img/icons/mysql-original-wordmark.svg" />
 <img align="left" alt="MSSQL" width="50px" style="padding-right:10px;" src="/img/icons/microsoftsqlserver-original-wordmark.svg" />
 <img align="left" alt="Spark" width="50px" style="padding-right:10px;" src="/img/icons/apachespark-original-wordmark.svg" />
+<img align="left" alt="Apache Airflow" width="50px" style="padding-right:10px;" src="/img/icons/apacheairflow-original-wordmark.svg" />
+<img align="left" alt="Jenkins" width="50px" style="padding-right:10px;" src="/img/icons/jenkins.svg" />
+<img align="left" alt="Terraform" width="50px" style="padding-right:10px;" src="/img/icons/terraform-original-wordmark.svg" />
+<img align="left" alt="Ansible" width="50px" style="padding-right:10px;" src="/img/icons/ansible.svg" />
+<img align="left" alt="ZenHub" width="50px" style="padding-right:10px;" src="/img/icons/zenhub-icon.svg" />
 <br>
 <br>
 <br>

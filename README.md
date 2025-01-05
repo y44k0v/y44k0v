@@ -8,47 +8,42 @@ I'm a dedicated full-stack developer with a fervent passion for data, automation
 ---
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Go(Golang)" width="50px" style="padding-right:10px;" src="/img/icons/go-original-wordmark.svg" />
-<img align="left" alt="Python" width="50px" style="padding-right:10px;" src="/img/icons/python-original-wordmark.svg" />
-<img align="left" alt="C" width="50px" style="padding-right:10px;" src="/img/icons/c-original.svg" />
-<img align="left" alt="C++" width="50px" style="padding-right:10px;" src="/img/icons/cplusplus-original.svg" />
-<img align="left" alt="R" width="50px" style="padding-right:10px;" src="/img/icons/r-original.svg" />
-<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="/img/icons/java-original-wordmark.svg" />
-<img align="left" alt="JupyterNB" width="50px" style="padding-right:10px;" src="/img/icons/jupyter-original-wordmark.svg" />
-<img align="left" alt="Bash" width="50px" style="padding-right:10px;" src="/img/icons/bash-original.svg" />
-<img align="left" alt="Javascript" width="50px" style="padding-right:10px;" src="/img/icons/javascript-original.svg" />
-<img align="left" alt="CSS" width="50px" style="padding-right:10px;" src="/img/icons/css3-original.svg" />
-<img align="left" alt="HTML" width="50px" style="padding-right:10px;" src="/img/icons/html5-original.svg" />
-<img align="left" alt="React" width="50px" style="padding-right:10px;" src="/img/icons/react-original-wordmark.svg" />
-<img align="left" alt="Docker" width="50px" style="padding-right:10px;" src="/img/icons/docker-original-wordmark.svg" />
-<img align="left" alt="Kubernetes" width="50px" style="padding-right:10px;" src="/img/icons/kubernetes-original-wordmark.svg" />
-<img align="left" alt="Openshift" width="50px" style="padding-right:10px;" src="/img/icons/openshift.svg" />
-<img align="left" alt="GCP" width="70px" style="padding-right:10px;" src="/img/icons/googlecloud-original-wordmark.svg" />
-<img align="left" alt="AWS" width="50px" style="padding-right:10px;" src="/img/icons/aws.svg" />
-<img align="left" alt="NodeJS" width="50px" style="padding-right:10px;" src="/img/icons/nodejs-original-wordmark.svg" />
-<img align="left" alt="Postgresql" width="50px" style="padding-right:10px;" src="/img/icons/postgresql-original-wordmark.svg" />
-<img align="left" alt="MySQL" width="50px" style="padding-right:10px;" src="/img/icons/mysql-original-wordmark.svg" />
-<img align="left" alt="MSSQL" width="50px" style="padding-right:10px;" src="/img/icons/microsoftsqlserver-original-wordmark.svg" />
-<img align="left" alt="Spark" width="50px" style="padding-right:10px;" src="/img/icons/apachespark-original-wordmark.svg" />
-<img align="left" alt="Apache Airflow" width="50px" style="padding-right:10px;" src="/img/icons/apacheairflow-original-wordmark.svg" />
-<img align="left" alt="Jenkins" width="50px" style="padding-right:10px;" src="/img/icons/jenkins.svg" />
-<img align="left" alt="Terraform" width="50px" style="padding-right:10px;" src="/img/icons/terraform-original-wordmark.svg" />
-<img align="left" alt="Ansible" width="50px" style="padding-right:10px;" src="/img/icons/ansible.svg" />
-<img align="left" alt="ZenHub" width="50px" style="padding-right:10px;" src="/img/icons/zenhub-icon.svg" />
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,go,c,cpp,bash,java,r,js,css,html" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,css,html,nodejs,react,flask,fastapi" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis,mongodb" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=debian,ubuntu,redhat,apple,windows" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,openshift,jenkins,terraform,ansible" />
+  </a>
+</p>
+
+<p align="center">
+    <img align="left" alt="Spark" width="50px" style="padding-right:10px;" src="/img/icons/apachespark-original-wordmark.svg" />
+    <img align="left" alt="Apache Airflow" width="50px" style="padding-right:10px;" src="/img/icons/apacheairflow-original-wordmark.svg" />
+</p>
+
 <br>
 <br>
 <br>

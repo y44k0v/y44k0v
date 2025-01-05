@@ -9,39 +9,39 @@ I'm a dedicated full-stack developer with a fervent passion for data, automation
 ### 🧰 Languages and Tools
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,go,c,cpp,bash,java,r" />
-  </a>
+  
+  <img src="https://skillicons.dev/icons?i=python,go,c,cpp,bash,java,r" />
+  
 </p>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,css,html,nodejs,react,flask,fastapi" />
-  </a>
+  
+  <img src="https://skillicons.dev/icons?i=js,css,html,nodejs,react,flask,fastapi" />
+  
 </p>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis,mongodb" />
-  </a>
+  
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis,mongodb" />
+  
 </p>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=debian,ubuntu,redhat,apple,windows" />
-  </a>
+  
+  <img src="https://skillicons.dev/icons?i=debian,ubuntu,redhat,apple,windows" />
+  
 </p>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,azure" />
-  </a>
+  
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure" />
+  
 </p>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,openshift,jenkins,terraform,ansible" />
-  </a>
+  
+  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,openshift,jenkins,terraform,ansible" />
+  
 </p>
 
 <p align="center">
-    <img align="left" alt="Spark" width="50px" style="padding-right:10px;" src="/img/icons/apachespark-original-wordmark.svg" />
-    <img align="left" alt="Apache Airflow" width="50px" style="padding-right:10px;" src="/img/icons/apacheairflow-original-wordmark.svg" />
+    <img align="center" alt="Spark" width="50px" style="padding-right:10px;" src="/img/icons/apachespark-original-wordmark.svg" />
+    <img align="center" alt="Apache Airflow" width="50px" style="padding-right:10px;" src="/img/icons/apacheairflow-original-wordmark.svg" />
 </p>
 
 <br>

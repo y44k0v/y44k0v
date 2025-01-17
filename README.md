@@ -10,7 +10,7 @@ I'm a dedicated full-stack developer with a fervent passion for data, automation
 
 <p align="center">
   
-  <img src="https://skillicons.dev/icons?i=python,go,c,cpp,bash,java,r" />
+  <img src="https://skillicons.dev/icons?i=python,go,c,cpp,bash,java,cs" />
   
 </p>
 <p align="center">

@@ -15,7 +15,7 @@ I'm a dedicated full-stack developer with a fervent passion for data, automation
 </p>
 <p align="center">
   
-  <img src="https://skillicons.dev/icons?i=js,css,html,nodejs,react,flask,fastapi" />
+  <img src="https://skillicons.dev/icons?i=js,css,html,typescript,nodejs,react,flask,fastapi" />
   
 </p>
 <p align="center">

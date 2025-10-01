@@ -7,6 +7,7 @@ I'm a dedicated full-stack developer with a fervent passion for data, automation
 
 ---
 ### 🧰 Languages and Tools
+![OS](https://img.shields.io/badge/OS-linux%2C%20windows%2C%20macOS-0078D4)
 
 <p align="center">
   

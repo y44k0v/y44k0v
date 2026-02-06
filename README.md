@@ -51,6 +51,7 @@ I'm a dedicated full-stack developer with a fervent passion for data, automation
 ![professional-cloud-devops-engineer-certification](https://github.com/y44k0v/y44k0v/blob/be6cda039d541df069eea5975e30c50974ab2fa4/img/professional-cloud-devops-engineer-certification.png "professional-cloud-devops-engineer-certification")   ![professional-data-engineer-certification](https://github.com/y44k0v/y44k0v/blob/be6cda039d541df069eea5975e30c50974ab2fa4/img/professional-data-engineer-certification.png "professional-data-engineer-certification") 
 <br>
 ![generative-ai-leader-certification](https://github.com/y44k0v/y44k0v/blob/be6cda039d541df069eea5975e30c50974ab2fa4/img/generative-ai-leader-certification.png "generative-ai-leader-certification")
+![professional-machine-learning-engineer-certification](https://github.com/y44k0v/y44k0v/blob/be6cda039d541df069eea5975e30c50974ab2fa4/img/professional-machine-learning-engineer-cert "professional-machine-learning-engineer-certification") 
 <br>
 <br>
 

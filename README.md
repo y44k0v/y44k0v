@@ -48,9 +48,9 @@ I'm a dedicated full-stack developer with a fervent passion for data, automation
 <br>
 <br>
 
-![professional-cloud-devops-engineer-certification](https://github.com/y44k0v/y44k0v/blob/be6cda039d541df069eea5975e30c50974ab2fa4/img/professional-cloud-devops-engineer-certification.png "professional-cloud-devops-engineer-certification")   ![professional-data-engineer-certification](https://github.com/y44k0v/y44k0v/blob/be6cda039d541df069eea5975e30c50974ab2fa4/img/professional-data-engineer-certification.png "professional-data-engineer-certification") 
+![professional-cloud-devops-engineer-certification]([https://github.com/y44k0v/y44k0v/blob/be6cda039d541df069eea5975e30c50974ab2fa4/img/professional-cloud-devops-engineer-certification.png](https://github.com/y44k0v/y44k0v/blob/3274751c1c3e27924a034d480f23de7b18d572aa/img/professional-cloud-devops-engineer-certification.png "professional-cloud-devops-engineer-certification")   ![professional-data-engineer-certification]([https://github.com/y44k0v/y44k0v/blob/be6cda039d541df069eea5975e30c50974ab2fa4/img/professional-data-engineer-certification.png ](https://github.com/y44k0v/y44k0v/blob/3274751c1c3e27924a034d480f23de7b18d572aa/img/professional-cloud-devops-engineer-certification.png "professional-data-engineer-certification") 
 <br>
-![generative-ai-leader-certification](https://github.com/y44k0v/y44k0v/blob/be6cda039d541df069eea5975e30c50974ab2fa4/img/generative-ai-leader-certification.png "generative-ai-leader-certification")
+![generative-ai-leader-certification]([https://github.com/y44k0v/y44k0v/blob/be6cda039d541df069eea5975e30c50974ab2fa4/img/generative-ai-leader-certification.png](https://github.com/y44k0v/y44k0v/blob/3274751c1c3e27924a034d480f23de7b18d572aa/img/generative-ai-leader-certification.png "generative-ai-leader-certification")
 ![professional-machine-learning-engineer-certification](https://github.com/y44k0v/y44k0v/blob/f5e946607be2157865eb4ecff4ac1941154c7a30/img/professional-machine-learning-engineer-cert.png "professional-machine-learning-engineer-certification") 
 <br>
 <br>

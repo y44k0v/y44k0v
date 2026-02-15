@@ -59,14 +59,11 @@ I'm a dedicated full-stack developer with a fervent passion for data, automation
 #
 ### 📊 Stats 
 
+![Top Languages](./profile/top-langs.svg)
 
+![Yaakov's GitHub stats](./profile/stats.svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y44k0v&size_weight=0.3&count_weight=0.8&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Yaakov's GitHub stats](https://github-readme-stats.vercel.app/api?username=y44k0v&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-![Static Badge](https://img.shields.io/badge/STATUS-work_in_progress_...-yellow?style=plastic)
-
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
 #
 <!--

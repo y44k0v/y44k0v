@@ -1,6 +1,6 @@
 # Yaakov Miller 👋
 
-**`Software Formulator`**
+**`Software Engineer`**
 [Credily Badges](https://www.credly.com/users/yaakov-miller)
 
 I'm a dedicated full-stack developer with a fervent passion for data, automation, and emerging technologies. My journey in tech has taken me from crafting sleek, responsive static websites to orchestrating robust cloud deployments. Along the way, I've built versatile standalone applications that run seamlessly across multiple operating systems and engineered efficient gRPC server/client architectures. My work is driven by a commitment to innovation and a keen interest in the latest technological advancements, always seeking new challenges and opportunities to learn and grow.
